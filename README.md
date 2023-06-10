@@ -15,7 +15,7 @@ Collaboration Opportunities
 I am open to collaboration on exciting projects or contributing to open source initiatives. If you have any interesting opportunities, feel free to reach out to me. Let's create something amazing together!
 
 Contact Me
-You can reach me via email at briancheruiyot.h.com or connect with me on linkedin https://www.linkedin.com/in/brian-cheruiyot-82590b243/
+You can reach me via email at briancheruiyot.h@gmail.com or connect with me on linkedin https://www.linkedin.com/in/brian-cheruiyot-82590b243/
 
 Feel free to explore my repositories and don't hesitate to get in touch. I'm always eager to learn, collaborate, and grow as a developer.
 
