@@ -1,14 +1,14 @@
-👋 Hi, I'm Brian Cheruiyot, a computer science student at Maseno University passionate about technology.
+# 💫 About Me:
+👋 Hey there! I'm Brian Kipkemoi Cheruiyot<br><br>💻 Software Developer | 🌐 Fullstack Developer | ⚙️ MERN Stack Enthusiast<br><br>I'm a passionate and self-driven software developer focused on building scalable, user-friendly web applications. I specialize in the MERN stack (MongoDB, Express, React, Node.js), but I'm always exploring new technologies and frameworks.<br><br>🚀 Tech Stack<br><br>Frontend: React, Next.js, HTML, CSS, Tailwind, JavaScript<br><br>Backend: Node.js, Express, PHP (Laravel)<br><br>Databases: MongoDB, MySQL<br><br>Tools: Git & GitHub, Postman, VS Code, Eclipse, Kali Linux<br><br>🔨 What I Build<br><br>Fullstack Web Apps with real-time features<br><br>RESTful APIs and secure backend services<br><br>Responsive UIs with modern design principles<br><br>End-to-end project solutions<br><br>📂 Featured Projects<br><br>✅ Developer Task Manager App – Organize and track dev projects with categories, priorities, and statuses (MERN).<br><br>📸 Photography Website – Blog + trending gallery with stylish UI and animation.<br><br>🔐 Secure Java Web Apps – Spring MVC, Hibernate ORM, and security best practices.<br><br>📚 Currently Learning<br><br>Advanced React & Next.js<br><br>Docker & CI/CD pipelines<br><br>Web security & penetration testing (Kali Linux)<br><br>📫 Let’s Connect!<br><br>💼 LinkedIn: https://www.linkedin.com/in/brian-cheruiyot-a63787365/<br><br>🐦 Twitter: https://x.com/_afcguy<br><br>✉️ Email: kipkemoi.brian@gmail.com<br><br>🌐 Portfolio: https://briankipkemoi.pages.dev<br><br>"Building code that works is good. Building code that lasts is better."
 
-Interests:
 
-Programming: I love Python, Java, and JavaScript.
-AI: Fascinated by AI and machine learning.
-Open Source: Enthusiastic about collaboration.
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cobrianz&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cobrianz&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cobrianz&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Currently learning:
-Data Structures and Algorithms.
-Machine learning
-Open to collaboration on exciting projects or open source initiatives. Reach me at briancheruiyot.h@gmail.com or LinkedIn: linkedin.com/in/brian-cheruiyot
+---
+[![](https://visitcount.itsvg.in/api?id=cobrianz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Explore my repositories and let's connect! Thanks for visiting! 🌟
