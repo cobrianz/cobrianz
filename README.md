@@ -86,7 +86,7 @@ Results-driven Computer Science graduate specializing in software engineering, w
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cobrianz&theme=tokyonight&hide_border=true&background=0d1117)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cobrianz&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/cobrianz)
 
 </div>
 
