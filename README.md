@@ -77,16 +77,13 @@ Results-driven Computer Science graduate specializing in software engineering, w
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=cobrianz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobrianz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cobrianz&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/cobrianz)
+![Profile Views](https://komarev.com/ghpvc/?username=cobrianz&label=Profile+Views&color=0078d7&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-65-0078d7?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions%20Since%202023-1%2C492-0078d7?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -113,8 +110,6 @@ Maseno University · Sep 2021 – Nov 2025
 ---
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=cobrianz&label=Profile+Views&color=58A6FF&style=flat)
 
 *"Building code that works is good. Building code that lasts is better."*
 
